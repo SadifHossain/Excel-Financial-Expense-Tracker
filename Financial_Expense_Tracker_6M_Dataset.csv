@@ -1,0 +1,155 @@
+Transaction_ID,Date,Month,Quarter,Type,Category,Sub_Category,Payment_Method,Budget_Amount,Actual_Amount,Variance
+TXN-0001,2026-01-01,Jan-2026,Q1,Income,Salary,Primary Monthly Salary,Bank Transfer,0.0,85000.0,0.0
+TXN-0002,2026-01-02,Jan-2026,Q1,Expense,Utilities,Internet & Mobile,Mobile Banking,2500.0,2520.0,-20.0
+TXN-0003,2026-01-02,Jan-2026,Q1,Expense,Software & Tools,Cloud & Subscriptions,Card,2500.0,2620.0,-120.0
+TXN-0004,2026-01-04,Jan-2026,Q1,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,460.0,1040.0
+TXN-0005,2026-01-05,Jan-2026,Q1,Expense,Housing,Apartment Rent,Bank Transfer,22000.0,22000.0,0.0
+TXN-0006,2026-01-05,Jan-2026,Q1,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,4130.0,-2630.0
+TXN-0007,2026-01-08,Jan-2026,Q1,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,7550.0,-4550.0
+TXN-0008,2026-01-09,Jan-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,1040.0,60.0
+TXN-0009,2026-01-12,Jan-2026,Q1,Expense,Healthcare,Pharmacy & Checkups,Cash,1750.0,1000.0,750.0
+TXN-0010,2026-01-13,Jan-2026,Q1,Income,Freelance,Design & Analytics Projects,Bank Transfer,0.0,12400.0,0.0
+TXN-0011,2026-01-13,Jan-2026,Q1,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,480.0,1020.0
+TXN-0012,2026-01-13,Jan-2026,Q1,Expense,Shopping,Apparel & Electronics,Card,3500.0,3480.0,20.0
+TXN-0013,2026-01-14,Jan-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,1700.0,-600.0
+TXN-0014,2026-01-15,Jan-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Cash,1100.0,780.0,320.0
+TXN-0015,2026-01-18,Jan-2026,Q1,Income,Investments,Dividend & Interest,Bank Transfer,0.0,3200.0,0.0
+TXN-0016,2026-01-18,Jan-2026,Q1,Expense,Utilities,Electricity & Gas,Mobile Banking,4500.0,4880.0,-380.0
+TXN-0017,2026-01-18,Jan-2026,Q1,Expense,Food & Dining,Groceries,Cash,3000.0,1400.0,1600.0
+TXN-0018,2026-01-18,Jan-2026,Q1,Expense,Shopping,Apparel & Electronics,Card,3500.0,5720.0,-2220.0
+TXN-0019,2026-01-19,Jan-2026,Q1,Expense,Entertainment,Streaming & Events,Card,1500.0,430.0,1070.0
+TXN-0020,2026-01-20,Jan-2026,Q1,Expense,Food & Dining,Groceries,Cash,3000.0,1400.0,1600.0
+TXN-0021,2026-01-23,Jan-2026,Q1,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,500.0,2500.0
+TXN-0022,2026-01-23,Jan-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,2970.0,-1870.0
+TXN-0023,2026-01-25,Jan-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,100.0,1000.0
+TXN-0024,2026-01-25,Jan-2026,Q1,Expense,Transportation,Fuel & Ride Share,Cash,1500.0,550.0,950.0
+TXN-0025,2026-01-26,Jan-2026,Q1,Expense,Healthcare,Pharmacy & Checkups,Card,1750.0,2040.0,-290.0
+TXN-0026,2026-01-27,Jan-2026,Q1,Expense,Entertainment,Streaming & Events,Mobile Banking,1500.0,2690.0,-1190.0
+TXN-0027,2026-02-01,Feb-2026,Q1,Income,Salary,Primary Monthly Salary,Bank Transfer,0.0,85000.0,0.0
+TXN-0028,2026-02-05,Feb-2026,Q1,Expense,Housing,Apartment Rent,Bank Transfer,22000.0,22000.0,0.0
+TXN-0029,2026-02-05,Feb-2026,Q1,Expense,Shopping,Apparel & Electronics,Mobile Banking,3500.0,310.0,3190.0
+TXN-0030,2026-02-06,Feb-2026,Q1,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,330.0,2670.0
+TXN-0031,2026-02-06,Feb-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,820.0,280.0
+TXN-0032,2026-02-07,Feb-2026,Q1,Expense,Healthcare,Pharmacy & Checkups,Cash,1750.0,330.0,1420.0
+TXN-0033,2026-02-08,Feb-2026,Q1,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,760.0,740.0
+TXN-0034,2026-02-12,Feb-2026,Q1,Expense,Utilities,Internet & Mobile,Mobile Banking,2500.0,2430.0,70.0
+TXN-0035,2026-02-13,Feb-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,160.0,940.0
+TXN-0036,2026-02-13,Feb-2026,Q1,Expense,Transportation,Fuel & Ride Share,Cash,1500.0,2410.0,-910.0
+TXN-0037,2026-02-13,Feb-2026,Q1,Expense,Software & Tools,Cloud & Subscriptions,Card,2500.0,2740.0,-240.0
+TXN-0038,2026-02-15,Feb-2026,Q1,Expense,Utilities,Electricity & Gas,Bank Transfer,4500.0,4410.0,90.0
+TXN-0039,2026-02-18,Feb-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,2610.0,-1510.0
+TXN-0040,2026-02-19,Feb-2026,Q1,Income,Freelance,Design & Analytics Projects,Bank Transfer,0.0,27800.0,0.0
+TXN-0041,2026-02-19,Feb-2026,Q1,Expense,Healthcare,Pharmacy & Checkups,Cash,1750.0,1450.0,300.0
+TXN-0042,2026-02-20,Feb-2026,Q1,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,6160.0,-3160.0
+TXN-0043,2026-02-21,Feb-2026,Q1,Expense,Food & Dining,Groceries,Cash,3000.0,4960.0,-1960.0
+TXN-0044,2026-02-21,Feb-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Cash,1100.0,100.0,1000.0
+TXN-0045,2026-02-21,Feb-2026,Q1,Expense,Shopping,Apparel & Electronics,Mobile Banking,3500.0,6050.0,-2550.0
+TXN-0046,2026-02-22,Feb-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,2960.0,-1860.0
+TXN-0047,2026-02-23,Feb-2026,Q1,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,1530.0,1470.0
+TXN-0048,2026-02-24,Feb-2026,Q1,Expense,Entertainment,Streaming & Events,Mobile Banking,1500.0,1900.0,-400.0
+TXN-0049,2026-02-24,Feb-2026,Q1,Expense,Entertainment,Streaming & Events,Mobile Banking,1500.0,240.0,1260.0
+TXN-0050,2026-02-25,Feb-2026,Q1,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,3440.0,-1940.0
+TXN-0051,2026-02-26,Feb-2026,Q1,Expense,Transportation,Fuel & Ride Share,Cash,1500.0,210.0,1290.0
+TXN-0052,2026-03-01,Mar-2026,Q1,Income,Salary,Primary Monthly Salary,Bank Transfer,0.0,85000.0,0.0
+TXN-0053,2026-03-04,Mar-2026,Q1,Expense,Entertainment,Streaming & Events,Mobile Banking,1500.0,250.0,1250.0
+TXN-0054,2026-03-05,Mar-2026,Q1,Expense,Housing,Apartment Rent,Bank Transfer,22000.0,22000.0,0.0
+TXN-0055,2026-03-05,Mar-2026,Q1,Expense,Utilities,Electricity & Gas,Mobile Banking,4500.0,5180.0,-680.0
+TXN-0056,2026-03-05,Mar-2026,Q1,Expense,Healthcare,Pharmacy & Checkups,Cash,1750.0,1050.0,700.0
+TXN-0057,2026-03-06,Mar-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,170.0,930.0
+TXN-0058,2026-03-08,Mar-2026,Q1,Expense,Software & Tools,Cloud & Subscriptions,Card,2500.0,2340.0,160.0
+TXN-0059,2026-03-09,Mar-2026,Q1,Expense,Transportation,Fuel & Ride Share,Card,1500.0,1520.0,-20.0
+TXN-0060,2026-03-10,Mar-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,100.0,1000.0
+TXN-0061,2026-03-10,Mar-2026,Q1,Expense,Healthcare,Pharmacy & Checkups,Card,1750.0,4190.0,-2440.0
+TXN-0062,2026-03-11,Mar-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,1940.0,-840.0
+TXN-0063,2026-03-14,Mar-2026,Q1,Income,Investments,Dividend & Interest,Bank Transfer,0.0,4000.0,0.0
+TXN-0064,2026-03-14,Mar-2026,Q1,Expense,Utilities,Internet & Mobile,Mobile Banking,2500.0,2560.0,-60.0
+TXN-0065,2026-03-17,Mar-2026,Q1,Income,Freelance,Design & Analytics Projects,Bank Transfer,0.0,28000.0,0.0
+TXN-0066,2026-03-17,Mar-2026,Q1,Expense,Food & Dining,Groceries,Card,3000.0,5210.0,-2210.0
+TXN-0067,2026-03-17,Mar-2026,Q1,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,1210.0,290.0
+TXN-0068,2026-03-18,Mar-2026,Q1,Expense,Food & Dining,Groceries,Cash,3000.0,2220.0,780.0
+TXN-0069,2026-03-18,Mar-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,1710.0,-610.0
+TXN-0070,2026-03-18,Mar-2026,Q1,Expense,Shopping,Apparel & Electronics,Card,3500.0,2810.0,690.0
+TXN-0071,2026-03-20,Mar-2026,Q1,Expense,Food & Dining,Groceries,Card,3000.0,300.0,2700.0
+TXN-0072,2026-03-20,Mar-2026,Q1,Expense,Shopping,Apparel & Electronics,Mobile Banking,3500.0,6670.0,-3170.0
+TXN-0073,2026-03-22,Mar-2026,Q1,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,4190.0,-1190.0
+TXN-0074,2026-03-24,Mar-2026,Q1,Expense,Transportation,Fuel & Ride Share,Card,1500.0,180.0,1320.0
+TXN-0075,2026-03-25,Mar-2026,Q1,Expense,Food & Dining,Restaurants & Coffee,Cash,1100.0,690.0,410.0
+TXN-0076,2026-03-25,Mar-2026,Q1,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,1900.0,-400.0
+TXN-0077,2026-03-27,Mar-2026,Q1,Expense,Entertainment,Streaming & Events,Mobile Banking,1500.0,2720.0,-1220.0
+TXN-0078,2026-04-01,Apr-2026,Q2,Income,Salary,Primary Monthly Salary,Bank Transfer,0.0,85000.0,0.0
+TXN-0079,2026-04-01,Apr-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Cash,1100.0,3060.0,-1960.0
+TXN-0080,2026-04-01,Apr-2026,Q2,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,1360.0,140.0
+TXN-0081,2026-04-02,Apr-2026,Q2,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,1250.0,250.0
+TXN-0082,2026-04-02,Apr-2026,Q2,Expense,Healthcare,Pharmacy & Checkups,Cash,1750.0,410.0,1340.0
+TXN-0083,2026-04-03,Apr-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,190.0,910.0
+TXN-0084,2026-04-03,Apr-2026,Q2,Expense,Healthcare,Pharmacy & Checkups,Card,1750.0,1380.0,370.0
+TXN-0085,2026-04-05,Apr-2026,Q2,Expense,Housing,Apartment Rent,Bank Transfer,22000.0,22000.0,0.0
+TXN-0086,2026-04-07,Apr-2026,Q2,Expense,Software & Tools,Cloud & Subscriptions,Card,2500.0,2680.0,-180.0
+TXN-0087,2026-04-08,Apr-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,690.0,410.0
+TXN-0088,2026-04-08,Apr-2026,Q2,Expense,Entertainment,Streaming & Events,Mobile Banking,1500.0,590.0,910.0
+TXN-0089,2026-04-12,Apr-2026,Q2,Income,Freelance,Design & Analytics Projects,Bank Transfer,0.0,23700.0,0.0
+TXN-0090,2026-04-12,Apr-2026,Q2,Income,Investments,Dividend & Interest,Bank Transfer,0.0,5400.0,0.0
+TXN-0091,2026-04-13,Apr-2026,Q2,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,4350.0,-1350.0
+TXN-0092,2026-04-15,Apr-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Cash,1100.0,2280.0,-1180.0
+TXN-0093,2026-04-15,Apr-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,120.0,980.0
+TXN-0094,2026-04-16,Apr-2026,Q2,Expense,Utilities,Electricity & Gas,Mobile Banking,4500.0,4010.0,490.0
+TXN-0095,2026-04-16,Apr-2026,Q2,Expense,Shopping,Apparel & Electronics,Card,3500.0,3280.0,220.0
+TXN-0096,2026-04-18,Apr-2026,Q2,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,100.0,2900.0
+TXN-0097,2026-04-18,Apr-2026,Q2,Expense,Shopping,Apparel & Electronics,Card,3500.0,7060.0,-3560.0
+TXN-0098,2026-04-19,Apr-2026,Q2,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,3300.0,-1800.0
+TXN-0099,2026-04-19,Apr-2026,Q2,Expense,Entertainment,Streaming & Events,Mobile Banking,1500.0,2950.0,-1450.0
+TXN-0100,2026-04-23,Apr-2026,Q2,Expense,Food & Dining,Groceries,Cash,3000.0,5620.0,-2620.0
+TXN-0101,2026-04-23,Apr-2026,Q2,Expense,Food & Dining,Groceries,Card,3000.0,4080.0,-1080.0
+TXN-0102,2026-04-23,Apr-2026,Q2,Expense,Transportation,Fuel & Ride Share,Card,1500.0,220.0,1280.0
+TXN-0103,2026-04-28,Apr-2026,Q2,Expense,Utilities,Internet & Mobile,Mobile Banking,2500.0,2450.0,50.0
+TXN-0104,2026-05-01,May-2026,Q2,Income,Salary,Primary Monthly Salary,Bank Transfer,0.0,85000.0,0.0
+TXN-0105,2026-05-02,May-2026,Q2,Expense,Software & Tools,Cloud & Subscriptions,Card,2500.0,2380.0,120.0
+TXN-0106,2026-05-03,May-2026,Q2,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,400.0,1100.0
+TXN-0107,2026-05-04,May-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,1800.0,-700.0
+TXN-0108,2026-05-05,May-2026,Q2,Expense,Housing,Apartment Rent,Bank Transfer,22000.0,22000.0,0.0
+TXN-0109,2026-05-05,May-2026,Q2,Expense,Entertainment,Streaming & Events,Card,1500.0,950.0,550.0
+TXN-0110,2026-05-06,May-2026,Q2,Expense,Transportation,Fuel & Ride Share,Cash,1500.0,730.0,770.0
+TXN-0111,2026-05-06,May-2026,Q2,Expense,Healthcare,Pharmacy & Checkups,Cash,1750.0,570.0,1180.0
+TXN-0112,2026-05-07,May-2026,Q2,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,140.0,2860.0
+TXN-0113,2026-05-08,May-2026,Q2,Expense,Food & Dining,Groceries,Cash,3000.0,2980.0,20.0
+TXN-0114,2026-05-08,May-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,2560.0,-1460.0
+TXN-0115,2026-05-09,May-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,100.0,1000.0
+TXN-0116,2026-05-13,May-2026,Q2,Income,Freelance,Design & Analytics Projects,Bank Transfer,0.0,22500.0,0.0
+TXN-0117,2026-05-13,May-2026,Q2,Expense,Healthcare,Pharmacy & Checkups,Card,1750.0,1850.0,-100.0
+TXN-0118,2026-05-13,May-2026,Q2,Expense,Shopping,Apparel & Electronics,Mobile Banking,3500.0,1990.0,1510.0
+TXN-0119,2026-05-14,May-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,290.0,810.0
+TXN-0120,2026-05-15,May-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Cash,1100.0,950.0,150.0
+TXN-0121,2026-05-16,May-2026,Q2,Expense,Transportation,Fuel & Ride Share,Cash,1500.0,1950.0,-450.0
+TXN-0122,2026-05-18,May-2026,Q2,Expense,Transportation,Fuel & Ride Share,Mobile Banking,1500.0,3290.0,-1790.0
+TXN-0123,2026-05-21,May-2026,Q2,Expense,Utilities,Internet & Mobile,Mobile Banking,2500.0,5540.0,-3040.0
+TXN-0124,2026-05-23,May-2026,Q2,Expense,Entertainment,Streaming & Events,Mobile Banking,1500.0,1530.0,-30.0
+TXN-0125,2026-05-24,May-2026,Q2,Expense,Utilities,Electricity & Gas,Mobile Banking,4500.0,5370.0,-870.0
+TXN-0126,2026-05-24,May-2026,Q2,Expense,Food & Dining,Groceries,Card,3000.0,3640.0,-640.0
+TXN-0127,2026-05-26,May-2026,Q2,Expense,Food & Dining,Groceries,Cash,3000.0,3960.0,-960.0
+TXN-0128,2026-05-26,May-2026,Q2,Expense,Shopping,Apparel & Electronics,Mobile Banking,3500.0,1030.0,2470.0
+TXN-0129,2026-06-01,Jun-2026,Q2,Income,Salary,Primary Monthly Salary,Bank Transfer,0.0,85000.0,0.0
+TXN-0130,2026-06-03,Jun-2026,Q2,Expense,Utilities,Internet & Mobile,Mobile Banking,2500.0,2570.0,-70.0
+TXN-0131,2026-06-03,Jun-2026,Q2,Expense,Healthcare,Pharmacy & Checkups,Card,1750.0,3640.0,-1890.0
+TXN-0132,2026-06-04,Jun-2026,Q2,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,1460.0,1540.0
+TXN-0133,2026-06-05,Jun-2026,Q2,Expense,Housing,Apartment Rent,Bank Transfer,22000.0,22000.0,0.0
+TXN-0134,2026-06-05,Jun-2026,Q2,Expense,Transportation,Fuel & Ride Share,Card,1500.0,100.0,1400.0
+TXN-0135,2026-06-05,Jun-2026,Q2,Expense,Shopping,Apparel & Electronics,Mobile Banking,3500.0,3160.0,340.0
+TXN-0136,2026-06-07,Jun-2026,Q2,Expense,Shopping,Apparel & Electronics,Mobile Banking,3500.0,460.0,3040.0
+TXN-0137,2026-06-08,Jun-2026,Q2,Expense,Food & Dining,Groceries,Card,3000.0,4190.0,-1190.0
+TXN-0138,2026-06-08,Jun-2026,Q2,Expense,Food & Dining,Groceries,Mobile Banking,3000.0,3100.0,-100.0
+TXN-0139,2026-06-08,Jun-2026,Q2,Expense,Entertainment,Streaming & Events,Mobile Banking,1500.0,1360.0,140.0
+TXN-0140,2026-06-09,Jun-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Card,1100.0,1150.0,-50.0
+TXN-0141,2026-06-09,Jun-2026,Q2,Expense,Transportation,Fuel & Ride Share,Cash,1500.0,3380.0,-1880.0
+TXN-0142,2026-06-10,Jun-2026,Q2,Expense,Entertainment,Streaming & Events,Card,1500.0,2550.0,-1050.0
+TXN-0143,2026-06-14,Jun-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Cash,1100.0,790.0,310.0
+TXN-0144,2026-06-15,Jun-2026,Q2,Expense,Transportation,Fuel & Ride Share,Cash,1500.0,930.0,570.0
+TXN-0145,2026-06-15,Jun-2026,Q2,Expense,Healthcare,Pharmacy & Checkups,Card,1750.0,1850.0,-100.0
+TXN-0146,2026-06-17,Jun-2026,Q2,Expense,Utilities,Electricity & Gas,Mobile Banking,4500.0,3890.0,610.0
+TXN-0147,2026-06-17,Jun-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Mobile Banking,1100.0,530.0,570.0
+TXN-0148,2026-06-18,Jun-2026,Q2,Expense,Software & Tools,Cloud & Subscriptions,Card,2500.0,2460.0,40.0
+TXN-0149,2026-06-19,Jun-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Cash,1100.0,240.0,860.0
+TXN-0150,2026-06-20,Jun-2026,Q2,Income,Freelance,Design & Analytics Projects,Bank Transfer,0.0,12900.0,0.0
+TXN-0151,2026-06-20,Jun-2026,Q2,Expense,Food & Dining,Groceries,Cash,3000.0,4250.0,-1250.0
+TXN-0152,2026-06-21,Jun-2026,Q2,Expense,Transportation,Fuel & Ride Share,Cash,1500.0,1230.0,270.0
+TXN-0153,2026-06-22,Jun-2026,Q2,Expense,Food & Dining,Restaurants & Coffee,Cash,1100.0,3530.0,-2430.0
+TXN-0154,2026-06-25,Jun-2026,Q2,Income,Investments,Dividend & Interest,Bank Transfer,0.0,4000.0,0.0
